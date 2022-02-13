@@ -47,7 +47,7 @@
     "@types/jquery": "^3.3.34",
     "@types/mocha": "2.2.38",
     "@types/tether": "^1.4.4",
-    "ajv": "~5.2.2",
+    "ajv": "~6.12.3",
     "css-loader": "^3.5.2",
     "gulp": "~3.9.1",
     "style-loader": "^1.1.4",
